@@ -1,4 +1,5 @@
-# Store-Design
+# Blog-Design
+Basic Markup Blog Project straightforward and Simple design.
 
 ## Description
 
